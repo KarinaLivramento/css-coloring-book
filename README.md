@@ -19,3 +19,52 @@ Você deve seguir a lista de atividades definidas abaixo, para cada atividade re
 - [ ] Definir o estilo dos titulos
 - [ ] Definir o estilo dos texto
 - [ ] Definir o estilo dos botões
+
+## Componentes (Guia de estilo)
+
+<details>
+    <summary><b>body</b> (cores e fontes padrão)</summary>
+    
+    Para selecionar a tag <body> no <u>style.css</u> basta usar o nome da tag como no exemplo a baixo:
+
+     body {
+        # escreva as propriedades aqui dentro das chaves
+     }
+    
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| fonte     | font-family | Open Sans,sans-serif |
+| tamanho da fonte | font-size | 1rem |    
+| peso da fonte | font-weight | 400 |
+| altura das linhas | line-height | 1.5    |
+| alinhamento do texto | text-align | left |
+| cor do texto | color | #525f7f    |
+| cor de fundo | background-color | #fff    |
+</details>
+
+<details>
+    <summary><b>h1,h2,h3,h4,h5</b> (titulos)</summary>
+    
+    Para selecionar varias tags ao mesmo tempo basta 
+    adicionar a virgula como no exemplo abaixo:
+
+     h1, h2, h3, h4, h5 {}
+    
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| cor da fonte     | color | #32325d |
+| margem de baixo | margin-bottom | .5rem |
+</details>
+
+<details>
+    <summary><b>h1</b> (titulo principal)</summary>
+    
+    o h1 deve ter um tamanho diferenciado
+    de todos outros titulos
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| tamanho da fonte     | font-size | 2.5rem |
+</details>
