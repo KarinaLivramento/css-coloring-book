@@ -68,3 +68,64 @@ Você deve seguir a lista de atividades definidas abaixo, para cada atividade re
 |----------:|-------------|-------|
 | tamanho da fonte     | font-size | 2.5rem |
 </details>
+
+<details>
+    <summary><b>.texto</b> (classe de texto)</summary>
+    
+    Para selecionar a classe <u>texto</u> basta usar o nome da classe com um ponto no começo exemplo a baixo:
+
+     .texto {
+        # escreva as propriedades aqui dentro das chaves
+     }
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| tamanho da fonte     | font-size | 1.25rem |
+| peso da fonte     | font-weight | 300 |
+| altura da linha     | line-height | 1.7 |
+| margem de cima     | margin-top | 1.5rem |
+</details>
+
+<details>
+    <summary><b>.texto-branco</b> (classe de texto)</summary>
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| cor do texto     | color | #fff |
+</details>
+
+<details>
+    <summary><b>.texto-azul</b> (classe de texto)</summary>
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| cor do texto     | color | #5e72e4  |
+</details>
+
+<details>
+    <summary><b>.titulo</b> (classe titulo)</summary>
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| tamanho da fonte     | font-size | 2.1875rem |
+| peso da fonte     | font-weight | 600 |
+| altura da linha     | line-height | 1.5 |
+</details>
+
+<details>
+    <summary><b>.descrição</b> (component de texto descritivo)</summary>
+
+component de texto descritivo com letras menores
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| tamanho da fonte     | font-size |.875rem |
+</details>
+
+<details>
+    <summary><b>.texto-padrao</b> </summary>
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| cor do texto    | color |#172b4d |
+</details>
