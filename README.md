@@ -129,3 +129,93 @@ component de texto descritivo com letras menores
 |----------:|-------------|-------|
 | cor do texto    | color |#172b4d |
 </details>
+
+<details>
+    <summary><b>.btn</b> </summary>
+
+a classe <u>btn</u> tem propriedades que são comuns a todos os botões
+
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| posição do componente    | position | relative |
+| transformação de texto    | text-transformation | uppercase |
+| espaço das letras    | letter-spacing | .025rem |
+| tamanho da fonte    | font-size | .875rem |
+| peso da fonte     | font-weight | 600 |
+| alinhamento do texto     | text-align | center |
+| altura da linha     | line-height | 1.5 |
+| espaço interno    | padding | .625rem 1.25rem |
+| arredondamento da borda    | border-radius | .25rem |
+| alinhamento vertical    | vertical-align | middle |
+</details>
+
+<details>
+    <summary><b>.btn-block</b> </summary>
+
+a classe <u>btn-block</u> faz com que os botões sejam apresentados
+em bloco e que preencham toda a largura do elemento pai
+
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| modo de apresentação    | display | block |
+| largura   | width | 100% |
+</details>
+
+<details>
+    <summary><b>.btn-aviso</b> </summary>
+
+classe que representa o botão chamativo
+
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| cor do texto    | color | #fff |
+| cor de fundo   | background-color | #fb6340 |
+| cor da borda   | border-color | #fb6340 |
+| sombreamento    | box-shadow | 0 4px 6px rgba(50,50,93,.11),0 1px 3px rgba(0,0,0,8%) |
+</details>
+
+<details>
+    <summary><b>.btn-info</b> </summary>
+
+classe que representa o botão de informação de cor azul turquesa
+
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| cor do texto    | color | #fff |
+| cor de fundo   | background-color | #11cdef |
+| cor da borda   | border-color | #11cdef |
+| sombreamento    | box-shadow | 0 4px 6px rgba(50,50,93,.11),0 1px 3px rgba(0,0,0,8%) |
+</details>
+
+<details>
+    <summary><b>.btn-azul</b> </summary>
+
+classe que representa o botão azul
+
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| cor do texto    | color | #fff |
+| cor de fundo   | background-color | #5e72e4 |
+| cor da borda   | border-color | #5e72e4 |
+| sombreamento    | box-shadow | 0 4px 6px rgba(50,50,93,.11),0 1px 3px rgba(0,0,0,8%) |
+</details>
+
+
+<details>
+    <summary><b>.btn-lg</b> </summary>
+
+classe responsavel por deixar os botões largos
+
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| espaço interno    | padding | .875rem 1rem |
+| tamanho da fonte   | font-size | .875rem |
+| altura da linha  | line-height | 1.5 |
+| arredondamento    | border-radius | .3rem |
+</details>
