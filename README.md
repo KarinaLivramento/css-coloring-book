@@ -113,6 +113,22 @@ Você deve seguir a lista de atividades definidas abaixo, para cada atividade re
 </details>
 
 <details>
+    <summary><b>.titulo span</b> (tag span dentro da classe titulo)</summary>
+
+    para selecionar a tag span dentro de um elemento da classe titulo basta
+    selecionar a tag span após a classe titulo como no exemplo abaixo:
+
+    .titulo span {
+        #escreva as propriedades aqui
+    }
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| modo de apresentação    | display | block |
+| peso da fonte     | font-weight | 300 |
+</details>
+
+<details>
     <summary><b>.descrição</b> (component de texto descritivo)</summary>
 
 component de texto descritivo com letras menores
