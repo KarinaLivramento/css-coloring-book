@@ -44,6 +44,17 @@ Você deve seguir a lista de atividades definidas abaixo, para cada atividade re
 </details>
 
 <details>
+    <summary><b>h1</b> (titulo principal)</summary>
+    
+    o h1 deve ter um tamanho diferenciado
+    de todos outros titulos
+
+| descrição | propriedade | valor |
+|----------:|-------------|-------|
+| tamanho da fonte     | font-size | 2.5rem |
+</details>
+
+<details>
     <summary><b>h1,h2,h3,h4,h5</b> (titulos)</summary>
     
     Para selecionar varias tags ao mesmo tempo basta 
@@ -56,17 +67,6 @@ Você deve seguir a lista de atividades definidas abaixo, para cada atividade re
 |----------:|-------------|-------|
 | cor da fonte     | color | #32325d |
 | margem de baixo | margin-bottom | .5rem |
-</details>
-
-<details>
-    <summary><b>h1</b> (titulo principal)</summary>
-    
-    o h1 deve ter um tamanho diferenciado
-    de todos outros titulos
-
-| descrição | propriedade | valor |
-|----------:|-------------|-------|
-| tamanho da fonte     | font-size | 2.5rem |
 </details>
 
 <details>
