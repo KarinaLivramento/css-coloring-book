@@ -15,7 +15,7 @@ todas as propriedades CSS devem ser definidas no arquivo <u>css/style.css</u>.
 Você deve seguir a lista de atividades definidas abaixo, para cada atividade realizada marque o checkbox relativo a essa atividade na lista abaixo até que consiga completar a lista.
 
 ### Lista de atividades
-- [ ] Definir as cores e fontes padrão para a página
+- [x] Definir as cores e fontes padrão para a página
 - [ ] Definir o estilo dos titulos
 - [ ] Definir o estilo dos texto
 - [ ] Definir o estilo dos botões
