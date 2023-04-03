@@ -7,3 +7,78 @@ body{
     color: #525f7f;
     background-color: #fff;
 }
+h1{
+  font-size: 2.5rem;  
+}
+h1,h2,h3,h4,h5{
+    color: #32325d;
+    margin-bottom: .5rem;
+}
+.texto{
+   font-size: 1.25rem; 
+   font-weight: 300;
+   line-height: 1.7;
+   margin-top: 1.5rem;
+}
+.texto-branco{
+    color: #fff;
+}
+.texto-azul{
+    color: #5e72e4;
+}
+.titulo{
+    font-size: 2.1875rem;
+    font-weight: 600;
+    line-height: 1.5;
+}
+.titulo span{
+    display: block;
+    font-weight: 300;
+}
+.descrição{
+    font-size: .875rem;
+}
+.texto-padrao{
+    color: #172b4d;
+}
+.btn{
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: .025rem;
+    font-size: .875rem;
+    font-weight: 600;
+    text-align: center;
+    line-height: 1.5;
+    padding: .625rem 125rem;
+    border-radius: .25rem;
+    vertical-align: middle;
+}
+.btn-block{
+    display: block;
+    width: 100%;
+}
+.btn-aviso{
+    color: #fff;
+    background-color: #fb6340;
+    border-color: #fb6340;
+    box-shadow: 0 4px 6px rgba(50, 50, 93, .11),0 1px 3px rgba(0, 0, 0, 8%);
+}
+.btn-info{
+    color: #fff;
+    background-color: #11cdef;
+    border-color: #11cdef;
+    box-shadow: 0 4px 6px rgba(50, 50, 93,.11),0 1px 3px rgba(0, 0, 0, 8%);
+}
+.btn-azul{
+    color: #fff;
+    background-color: #5e72e4;
+    border-color: #5e72e4;
+    box-shadow: 0 4px 6px rgba(50, 50, 93,.11),0 1px 3px rgba(0, 0, 0, 8%);
+
+}
+.btn-lg{
+    padding: .875rem 1rem;
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+}
