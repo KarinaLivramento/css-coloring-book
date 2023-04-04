@@ -16,9 +16,9 @@ Você deve seguir a lista de atividades definidas abaixo, para cada atividade re
 
 ### Lista de atividades
 - [x] Definir as cores e fontes padrão para a página
-- [ ] Definir o estilo dos titulos
-- [ ] Definir o estilo dos texto
-- [ ] Definir o estilo dos botões
+- [x] Definir o estilo dos titulos
+- [x] Definir o estilo dos texto
+- [x] Definir o estilo dos botões
 
 ## Componentes (Guia de estilo)
 
